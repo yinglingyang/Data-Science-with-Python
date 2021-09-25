@@ -1,3 +1,3 @@
 # Data-Science-with-Python
 
-It is a practicing project.
+Capstone Project of IBM Data Science.
